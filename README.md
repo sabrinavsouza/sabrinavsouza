@@ -3,6 +3,7 @@
 - 🎒 Cursando Ciência da Computação pela PUCRS
 - 🌱 Atualmente estudando JAVA
 - 😄 Pronouns: ela/dela
+##
 
 <div align="center">
   <a href="https://github.com/sabrinavsouza">
