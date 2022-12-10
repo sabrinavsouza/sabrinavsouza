@@ -1,6 +1,7 @@
 ## Olá! Eu sou a Sabrina 👋
 
 - 🎒 Cursando Ciência da Computação pela PUCRS
+- 📚 Conhecimento em HTML, CSS e JavaScript
 - 🌱 Atualmente estudando JAVA
 - 😄 Pronouns: ela/dela
 ##
