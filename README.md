@@ -2,7 +2,7 @@
 
 - 🎒 Cursando Ciência da Computação pela PUCRS.
 - 📚 Conhecimento em HTML5, CSS3 e JavaScript.
-- 🌱 Atualmente estudando JAVA.
+- 🌱 Atualmente estudando Swift.
 - 😄 Pronouns: ela/dela
 ##
 
