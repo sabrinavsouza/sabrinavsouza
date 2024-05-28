@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 Atualmente trabalhando com desenvolviomento iOS.
 - 📚 Possuo conhecimentos em Swift, SwiftUI, UIKit, JAVA, HTML5, CSS3 e JavaScript.
-- Principais interesses: desenvolimento mobile, front-end e Desing System.
+- 🫀 Principais interesses: desenvolimento mobile, front-end e Desing System.
 - 😄 Pronouns: ela/dela
 ##
 
